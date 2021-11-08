@@ -1,0 +1,76 @@
+<?<xml version = "1.0" encoding = "UTF-8" ?>
+<menu>
+    <page name="Drinks">
+        <option>
+            <item>Coke </item>
+            <price>3.50</price>
+        </option>
+        <option>
+            <item>Beer</item>
+            <price>5.00</price>
+        </option>
+        <option vegetarian="true">
+            <item>Juice</item>
+            <price>3.50</price>
+        </option>
+    </page>
+    <page name="Side Dishes">
+        <option>
+            <item>Chips</item>
+            <price>3.50</price>
+        </option>
+        <option>
+            <item>Sausages</item>
+            <price>5.00</price>
+        </option>
+        <option vegetarian="true">
+            <item>Salad</item>
+            <price>3.00</price>
+        </option>
+    </page>
+    <page  name="Breakfast">
+        <option>
+            <item>Omelette</item>
+            <price>7.50</price>
+        </option>
+        <option>
+            <item>Toast and Cheese</item>
+            <price>7.50</price>
+        </option>
+        <option vegetarian="true">
+            <item>Toast and Butter</item>
+            <price>7.00</price>
+        </option>
+    </page>
+    <page  name="Lunch">
+        <option>
+            <item>Pasta</item>
+            <price>12.00</price>
+        </option>
+        <option>
+            <item>Lasagna</item>
+            <price>15.00</price>
+        </option>
+        <option vegetarian="true">
+            <item>Tomato Soup</item>
+            <price>8.00</price>
+        </option>
+    </page>
+    <page  name="Dinner">
+        <option>
+            <item>Steak</item>
+            <price>15.00</price>
+        </option>
+        <option>
+            <item>Lobster</item>
+            <price>20.00</price>
+        </option>
+        <option vegetarian="true">
+            <item>Risotto</item>
+            <price>12.00</price>
+        </option>
+    </page>
+</menu>
+
+
+</xml>
